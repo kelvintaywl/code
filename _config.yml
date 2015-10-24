@@ -8,7 +8,7 @@ markdown: redcarpet
 highlighter: pygments
 
 paginate: 20
-baseurl: /code
+baseurl: /code/
 domain_name: 'http://github.com/kelvintaywl/code'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
