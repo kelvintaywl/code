@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: code
+description: snippets of useful code I learned while on the job
+meta_description: "code snippets learned on the job"
 
 aboutPage: true
 
@@ -8,16 +8,15 @@ markdown: redcarpet
 highlighter: pygments
 
 paginate: 20
-baseurl: /kactus/
-domain_name: 'http://yourblog-domain.com'
+baseurl: /code
+domain_name: 'http://github.com/kelvintaywl/code'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://github.com/kelvintaywl/code'
+author:         'Kelvin Tay'
 
 permalink:       /:year/:title/
 
