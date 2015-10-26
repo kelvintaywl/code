@@ -1,6 +1,6 @@
 ---
 title:  "try..else in Python"
-date:   2015-10-18 09:00:00
+date:   2015-10-26 23:50:00
 description: knowing the try except block in Python more intimately
 ---
 
