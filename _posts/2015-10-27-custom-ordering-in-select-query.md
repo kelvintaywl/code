@@ -13,5 +13,5 @@ Fret not, we can still do something like this, to sort our membersip table where
 {% highlight sql %}
 SELECT *
 FROM membership
-ORDER BY level = "GOLD", level = "SILVER", BRONZE"
+ORDER BY level = 'GOLD', level = 'SILVER', 'BRONZE'
 {% endhighlight %}
