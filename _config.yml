@@ -5,7 +5,7 @@ meta_description: "code snippets learned on the job"
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /code/
