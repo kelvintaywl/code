@@ -4,7 +4,7 @@ meta_description: "code snippets learned on the job"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
